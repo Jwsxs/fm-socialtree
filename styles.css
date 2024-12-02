@@ -51,7 +51,7 @@ img:hover {
     transform: scale(1.25);
 }
 
-.header {
+header {
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
